@@ -1,4 +1,4 @@
-echo"Startimg Somthing"
+echo "Startimg Somthing"
 
 pkg upgrade
 apt-get update
